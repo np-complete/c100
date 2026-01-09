@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
-      - uses: np-complete/publish-book-action@18210bf431c75af22b6543a0ba9ccfb6fc15dd2b # v1
+      - uses: np-complete/publish-book-action@08a80ee532be432d973aad4a47efc1cf1a3ddd8e # v2
